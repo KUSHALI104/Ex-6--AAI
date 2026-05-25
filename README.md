@@ -58,7 +58,7 @@ print ( "Antonyms : " ,set(antonyms) )
 ```
 <H3>Output</H3>
 
-<img width="1748" height="80" alt="image" src="https://github.com/user-attachments/assets/cc9f6ef3-4e98-45a6-b608-02c1ce0e7a03" />
+<img width="1600" height="61" alt="WhatsApp Image 2026-05-25 at 1 42 43 PM" src="https://github.com/user-attachments/assets/c63b91de-2180-4e8b-ab7f-50e0d1b5567a" />
 
 <H3>Result:</H3>
 Thus ,the program to perform the Parts of Speech identification and Synonymis executed sucessfully.
